@@ -1,0 +1,33 @@
+.Haupt{
+    background-image: url(https://kartinkinaden.ru/uploads/posts/2020-07/1593700172_9-p-foni-s-domami-14.jpg)
+}
+.nav{
+    line-height: 40px;
+    display: block;
+    width: 100%;
+    opacity: 1;
+}
+ul{
+    line-height: 40px;
+    display: inline-flex;
+}
+li{
+    padding-left: 18px;
+    margin-left: 18px;
+    padding-top: 12px;
+    font-size:18px;
+    display: inline-flex;
+    cursor: pointer;
+}
+.img{
+    cursor: pointer;
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    left: 2%;
+    top: 2%;
+}
+.ml{
+    display: inline-flex;
+    margin-left: 236px;
+}
